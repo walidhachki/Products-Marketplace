@@ -42,4 +42,4 @@ Your app is ready to be deployed!
 ![screenshot-2021-11-16](screens/products.png)
 
 ### Modal
-![screenshot-2021-11-16](screens/modal.jpg)
+![screenshot-2021-11-16](screens/modal.JPG)
