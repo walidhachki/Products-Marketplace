@@ -36,10 +36,10 @@ Your app is ready to be deployed!
 ![screenshot-2021-11-16](screens/SignIn.png)
 
 ### Sign Up
-![screenshot-2021-11-16](screens/signUp.png)
+![screenshot-2021-11-16](screens/signUn.png)
 
 ### Products
 ![screenshot-2021-11-16](screens/products.png)
 
 ### Modal
-![screenshot-2021-11-16](screens/modal.png)
+![screenshot-2021-11-16](screens/modal.jpg)
