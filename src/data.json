@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "_id": "1",
+      "image": "/images/product1.jpg",
+      "title": "ASUS FX571",
+      "description": "Asus M415U-14p FHD-AMD R5-5500u-8GB-1TB HDD+256G SSD-Windows 10 Pro-Garantie 12Mois",
+      "date" : "01/02/2021",
+      "Owner" :"Walid Hachki",
+      "email" : "walid@gmail.com",
+      "phone" : "+212602030405",
+      "availableCity": ["Casablanca"],
+      "price": 15000
+    },
+    {
+      "_id": "2",
+      "image": "/images/product3.jpg",
+      "title": "ASUS FX571",
+      "description": "Asus M415U-14p FHD-AMD R5-5500u-8GB-1TB HDD+256G SSD-Windows 10 Pro-Garantie 12Mois",
+      "date" : "01/02/2021",
+      "Owner" :"Abderazzak Daoudi",
+      "email" : "Abderazzak@gmail.com",
+      "phone" : "+212602030405",
+      "availableCity": ["Casablanca"],
+      "price": 10000
+    },
+    {
+      "_id": "3",
+      "image": "/images/product4.jpg",
+      "title": "ASUS FX571",
+      "description": "Asus M415U-14p FHD-AMD R5-5500u-8GB-1TB HDD+256G SSD-Windows 10 Pro-Garantie 12Mois",
+      "date" : "01/02/2021",
+
+      "Owner" :"Walid Hachki",
+      "email" : "walid.hachki.98@gmail.com",
+      "phone" : "+212602030405",
+      "availableCity": ["Fes"],
+      "price": 9000
+    },
+    {
+      "_id": "4",
+      "image": "/images/product5.jpg",
+      "title": "ASUS FX571",
+      "description": "Asus M415U-14p FHD-AMD R5-5500u-8GB-1TB HDD+256G SSD-Windows 10 Pro-Garantie 12Mois",
+      "date" : "01/02/2021",
+      "Owner" :"Walid Hachki",
+      "email" : "walid@gmail.com",
+      "phone" : "+212602030405",
+      "availableCity": ["Marrakech"],
+      "price": 11000
+    },
+    {
+      "_id": "5",
+      "image": "/images/product7.jpg",
+      "title": "ASUS FX571",
+      "description": "Asus M415U-14p FHD-AMD R5-5500u-8GB-1TB HDD+256G SSD-Windows 10 Pro-Garantie 12Mois",
+      "date" : "01/02/2021",
+      "Owner" :"Walid Hachki",
+      "email" : "walid@gmail.com",
+      "phone" : "+212602030405",
+      "availableCity": ["Tanger"],
+      "price": 12000
+    },
+    {
+      "_id": "6",
+      "image": "/images/product1.jpg",
+      "title": "ASUS FX571",
+      "description": "Asus M415U-14p FHD-AMD R5-5500u-8GB-1TB HDD+256G SSD-Windows 10 Pro-Garantie 12Mois",
+      "date" : "01/02/2021",
+      "Owner" :"Abderazzak Daoudi",
+      "email" : "Abderazzak@gmail.com",
+      "phone" : "+212602030405",
+      "availableCity": ["Casablanca"],
+      "price": 10000
+    }
+  ]
+}
